@@ -37,7 +37,7 @@ ion-icon {
     padding: 5rem;
     gap: 10rem;
     flex-wrap: wrap;
-    /* max-width: 1800px; */
+    max-width: 1800px;
 }
 
 .phone {
